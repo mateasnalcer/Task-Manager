@@ -18,4 +18,4 @@ Autor: Matea Šnalcer
 Početni podaci su izmišljeni (demo). Podaci se spremaju u `localStorage`.
 
 ## Tehnologije
-React 19, Vite
+React 19, Vite 
